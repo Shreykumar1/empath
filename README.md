@@ -39,3 +39,5 @@
 
 ### Other Tools
 - ![Clerk](https://img.shields.io/badge/-Clerk-0D1117?style=for-the-badge&logo=clerk&logoColor=white)
+
+**See Sample Result** : https://empath-beta.vercel.app/result 
