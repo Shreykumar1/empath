@@ -29,7 +29,8 @@ const Questions = () => {
     }
 
     // POST Api to next.js route 
-    const url = 'http://localhost:3000'
+    // const url = 'http://localhost:3000'
+    const url = 'https://empath-beta.vercel.app'
     try {
       const response = await fetch(`${url}/api/upload`, {
         method: 'POST',
